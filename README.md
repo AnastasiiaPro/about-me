@@ -1,5 +1,5 @@
 ## Меня зовут Анастасия Прохорова,
-## я закончилa 1,2-годичный курс Нетологии «Инженер по тестированию: с нуля до middle» и очень хочу найти работу ручным или автоматизированным тестировщиком.
+## я окончилa 1,2-годичный курс Нетологии «Инженер по тестированию: с нуля до middle» и очень хочу найти работу ручным или автоматизированным тестировщиком.
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnastasiiaPro)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiiaPro&langs_count=10&&hide=php,scss,hack,batchfile,gherkin,dockerfile,shell)](https://github.com/anuraghazra/github-readme-stats)
@@ -226,5 +226,4 @@
 - Люблю фотографию и людей. В путешествии __обожаю__ природу. 
 - Хочешь сделать хорошо - сделай _сам_, терпелива, и  самокритична. 
 - Фаворит: ~~вкуснючая~~ еда, пройденные киллометры, и новые нейронные связи.
-![ФОТОЧКА МИЛОЙ ДЕВЧУЛИ](IMG_5729.JPG)
 
